@@ -1,0 +1,39 @@
+
+#heading
+{
+
+width: 50%;
+margin-top: 15px;
+background-image:linear-gradient(to right,blue, rgb(41, 41, 191),rgb(124, 124, 185),rgb(193, 128, 193),purple,rgb(149, 22, 149)); ;
+color:azure;
+border-style: ridge;
+border-radius: 10px;
+}
+
+#status
+{
+font-size: 22px;
+background-image:linear-gradient(to right,blue, rgb(41, 41, 191),rgb(124, 124, 185),rgb(193, 128, 193),purple,rgb(149, 22, 149));
+color: azure;
+width: fit-content;
+}
+
+body
+{
+
+background-position:center ;
+background-size:contain;
+
+
+}
+
+canvas
+{
+
+box-shadow: 5px 5px 5px white;
+border-radius: 20px;
+border-color: whitesmoke;
+background-color: aquamarine;
+
+}
+
